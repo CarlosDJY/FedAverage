@@ -1,0 +1,941 @@
+
+communicate round 1  accuracy: 0.10100001096725464
+communicate round 2  accuracy: 0.10099998861551285
+communicate round 3  accuracy: 0.40650004148483276
+communicate round 4  accuracy: 0.3890998363494873
+communicate round 5  accuracy: 0.44399991631507874
+communicate round 6  accuracy: 0.7099001407623291
+communicate round 7  accuracy: 0.6784000396728516
+communicate round 8  accuracy: 0.8225000500679016
+communicate round 9  accuracy: 0.7518999576568604
+communicate round 10  accuracy: 0.73499995470047
+communicate round 11  accuracy: 0.7781000137329102
+communicate round 12  accuracy: 0.7874998450279236
+communicate round 13  accuracy: 0.8240999579429626
+communicate round 14  accuracy: 0.8029999136924744
+communicate round 15  accuracy: 0.8464000225067139
+communicate round 16  accuracy: 0.9171997904777527
+communicate round 17  accuracy: 0.9171999096870422
+communicate round 18  accuracy: 0.9076001048088074
+communicate round 19  accuracy: 0.8903998136520386
+communicate round 20  accuracy: 0.9033002257347107
+communicate round 21  accuracy: 0.9088999629020691
+communicate round 22  accuracy: 0.9172001481056213
+communicate round 23  accuracy: 0.9056000113487244
+communicate round 24  accuracy: 0.8331999182701111
+communicate round 25  accuracy: 0.9045999050140381
+communicate round 26  accuracy: 0.9024997353553772
+communicate round 27  accuracy: 0.8511999249458313
+communicate round 28  accuracy: 0.9147998690605164
+communicate round 29  accuracy: 0.9060998558998108
+communicate round 30  accuracy: 0.850800096988678
+communicate round 31  accuracy: 0.8693000674247742
+communicate round 32  accuracy: 0.8934001922607422
+communicate round 33  accuracy: 0.9200999736785889
+communicate round 34  accuracy: 0.9025999307632446
+communicate round 35  accuracy: 0.9273998737335205
+communicate round 36  accuracy: 0.8919001817703247
+communicate round 37  accuracy: 0.9125000834465027
+communicate round 38  accuracy: 0.8658000230789185
+communicate round 39  accuracy: 0.9154999852180481
+communicate round 40  accuracy: 0.9347999095916748
+communicate round 41  accuracy: 0.877399742603302
+communicate round 42  accuracy: 0.906000018119812
+communicate round 43  accuracy: 0.928300142288208
+communicate round 44  accuracy: 0.9277000427246094
+communicate round 45  accuracy: 0.8764000535011292
+communicate round 46  accuracy: 0.9203002452850342
+communicate round 47  accuracy: 0.9106000065803528
+communicate round 48  accuracy: 0.9348002672195435
+communicate round 49  accuracy: 0.9421002268791199
+communicate round 50  accuracy: 0.9171998500823975
+communicate round 51  accuracy: 0.9339998364448547
+communicate round 52  accuracy: 0.89680016040802
+communicate round 53  accuracy: 0.8759998679161072
+communicate round 54  accuracy: 0.95169997215271
+communicate round 55  accuracy: 0.9371004104614258
+communicate round 56  accuracy: 0.9175000786781311
+communicate round 57  accuracy: 0.926099956035614
+communicate round 58  accuracy: 0.9152999520301819
+communicate round 59  accuracy: 0.9237000942230225
+communicate round 60  accuracy: 0.9387999773025513
+communicate round 61  accuracy: 0.9197999835014343
+communicate round 62  accuracy: 0.9100001454353333
+communicate round 63  accuracy: 0.935800313949585
+communicate round 64  accuracy: 0.9110000133514404
+communicate round 65  accuracy: 0.9188998937606812
+communicate round 66  accuracy: 0.815500020980835
+communicate round 67  accuracy: 0.9331003427505493
+communicate round 68  accuracy: 0.9089000225067139
+communicate round 69  accuracy: 0.9552001953125
+communicate round 70  accuracy: 0.9345998764038086
+communicate round 71  accuracy: 0.9396000504493713
+communicate round 72  accuracy: 0.9404001235961914
+communicate round 73  accuracy: 0.9377998113632202
+communicate round 74  accuracy: 0.9146998524665833
+communicate round 75  accuracy: 0.929399847984314
+communicate round 76  accuracy: 0.8670000433921814
+communicate round 77  accuracy: 0.9529001116752625
+communicate round 78  accuracy: 0.9323001503944397
+communicate round 79  accuracy: 0.9304000735282898
+communicate round 80  accuracy: 0.9268000721931458
+communicate round 81  accuracy: 0.9451000094413757
+communicate round 82  accuracy: 0.925800085067749
+communicate round 83  accuracy: 0.940700113773346
+communicate round 84  accuracy: 0.9106999635696411
+communicate round 85  accuracy: 0.9495999813079834
+communicate round 86  accuracy: 0.9464001059532166
+communicate round 87  accuracy: 0.9164001941680908
+communicate round 88  accuracy: 0.8891000747680664
+communicate round 89  accuracy: 0.8980000019073486
+communicate round 90  accuracy: 0.9296001195907593
+communicate round 91  accuracy: 0.9513000249862671
+communicate round 92  accuracy: 0.9447000026702881
+communicate round 93  accuracy: 0.921000063419342
+communicate round 94  accuracy: 0.8981001377105713
+communicate round 95  accuracy: 0.9343000650405884
+communicate round 96  accuracy: 0.9452000260353088
+communicate round 97  accuracy: 0.9273999333381653
+communicate round 98  accuracy: 0.9066001176834106
+communicate round 99  accuracy: 0.8911000490188599
+communicate round 100  accuracy: 0.9249998927116394
+communicate round 101  accuracy: 0.9311000108718872
+communicate round 102  accuracy: 0.9516000151634216
+communicate round 103  accuracy: 0.941800057888031
+communicate round 104  accuracy: 0.9407998919487
+communicate round 105  accuracy: 0.9452998638153076
+communicate round 106  accuracy: 0.9442998766899109
+communicate round 107  accuracy: 0.9204998016357422
+communicate round 108  accuracy: 0.9292001128196716
+communicate round 109  accuracy: 0.8733000755310059
+communicate round 110  accuracy: 0.8926997780799866
+communicate round 111  accuracy: 0.9248002171516418
+communicate round 112  accuracy: 0.9301998615264893
+communicate round 113  accuracy: 0.9344000816345215
+communicate round 114  accuracy: 0.9544000625610352
+communicate round 115  accuracy: 0.9468000531196594
+communicate round 116  accuracy: 0.9494000673294067
+communicate round 117  accuracy: 0.9380000829696655
+communicate round 118  accuracy: 0.948699951171875
+communicate round 119  accuracy: 0.9386997818946838
+communicate round 120  accuracy: 0.9324001669883728
+communicate round 121  accuracy: 0.920700192451477
+communicate round 122  accuracy: 0.935999870300293
+communicate round 123  accuracy: 0.9443000555038452
+communicate round 124  accuracy: 0.9523000717163086
+communicate round 125  accuracy: 0.9168999195098877
+communicate round 126  accuracy: 0.9371001720428467
+communicate round 127  accuracy: 0.9468998312950134
+communicate round 128  accuracy: 0.8999999761581421
+communicate round 129  accuracy: 0.8827000856399536
+communicate round 130  accuracy: 0.9172001481056213
+communicate round 131  accuracy: 0.9348000884056091
+communicate round 132  accuracy: 0.9346000552177429
+communicate round 133  accuracy: 0.9447999596595764
+communicate round 134  accuracy: 0.9096999168395996
+communicate round 135  accuracy: 0.9460000991821289
+communicate round 136  accuracy: 0.9541001915931702
+communicate round 137  accuracy: 0.9363000988960266
+communicate round 138  accuracy: 0.9302000403404236
+communicate round 139  accuracy: 0.9487000703811646
+communicate round 140  accuracy: 0.9392000436782837
+communicate round 141  accuracy: 0.9428001046180725
+communicate round 142  accuracy: 0.9533002376556396
+communicate round 143  accuracy: 0.9397000074386597
+communicate round 144  accuracy: 0.9498001933097839
+communicate round 145  accuracy: 0.9130998849868774
+communicate round 146  accuracy: 0.9506000876426697
+communicate round 147  accuracy: 0.9315000772476196
+communicate round 148  accuracy: 0.932499885559082
+communicate round 149  accuracy: 0.9126998782157898
+communicate round 150  accuracy: 0.9502997398376465
+communicate round 151  accuracy: 0.9435998797416687
+communicate round 152  accuracy: 0.9312999248504639
+communicate round 153  accuracy: 0.9466001391410828
+communicate round 154  accuracy: 0.9516000747680664
+communicate round 155  accuracy: 0.9201998114585876
+communicate round 156  accuracy: 0.9489001035690308
+communicate round 157  accuracy: 0.944800078868866
+communicate round 158  accuracy: 0.918100118637085
+communicate round 159  accuracy: 0.9406999945640564
+communicate round 160  accuracy: 0.9353001117706299
+communicate round 161  accuracy: 0.9346998929977417
+communicate round 162  accuracy: 0.9348998665809631
+communicate round 163  accuracy: 0.9254001975059509
+communicate round 164  accuracy: 0.9498000144958496
+communicate round 165  accuracy: 0.9445000886917114
+communicate round 166  accuracy: 0.9470999836921692
+communicate round 167  accuracy: 0.9456998705863953
+communicate round 168  accuracy: 0.9467998147010803
+communicate round 169  accuracy: 0.9259998798370361
+communicate round 170  accuracy: 0.9487999677658081
+communicate round 171  accuracy: 0.9386998414993286
+communicate round 172  accuracy: 0.9482002854347229
+communicate round 173  accuracy: 0.9526001811027527
+communicate round 174  accuracy: 0.9505000114440918
+communicate round 175  accuracy: 0.949300229549408
+communicate round 176  accuracy: 0.9441999793052673
+communicate round 177  accuracy: 0.9475000500679016
+communicate round 178  accuracy: 0.9465002417564392
+communicate round 179  accuracy: 0.9553000330924988
+communicate round 180  accuracy: 0.9589000344276428
+communicate round 181  accuracy: 0.8915998935699463
+communicate round 182  accuracy: 0.949900209903717
+communicate round 183  accuracy: 0.9156999588012695
+communicate round 184  accuracy: 0.9406998753547668
+communicate round 185  accuracy: 0.9526000618934631
+communicate round 186  accuracy: 0.9350000023841858
+communicate round 187  accuracy: 0.9383000731468201
+communicate round 188  accuracy: 0.9460999965667725
+communicate round 189  accuracy: 0.8985999822616577
+communicate round 190  accuracy: 0.9503000378608704
+communicate round 191  accuracy: 0.9390998482704163
+communicate round 192  accuracy: 0.9300000667572021
+communicate round 193  accuracy: 0.9367998242378235
+communicate round 194  accuracy: 0.8930999636650085
+communicate round 1  accuracy: 0.10020001977682114
+communicate round 2  accuracy: 0.15519997477531433
+communicate round 3  accuracy: 0.2000999003648758
+communicate round 4  accuracy: 0.2809000313282013
+communicate round 5  accuracy: 0.5705999732017517
+communicate round 6  accuracy: 0.7283998131752014
+communicate round 7  accuracy: 0.7319000959396362
+communicate round 8  accuracy: 0.7675997614860535
+communicate round 9  accuracy: 0.6868000030517578
+communicate round 10  accuracy: 0.7528997659683228
+communicate round 11  accuracy: 0.7674998044967651
+communicate round 12  accuracy: 0.7578999400138855
+communicate round 13  accuracy: 0.7712000012397766
+communicate round 14  accuracy: 0.8818000555038452
+communicate round 15  accuracy: 0.8394998908042908
+communicate round 16  accuracy: 0.8849000334739685
+communicate round 17  accuracy: 0.8660998344421387
+communicate round 18  accuracy: 0.7940998673439026
+communicate round 19  accuracy: 0.8298001885414124
+communicate round 20  accuracy: 0.8796001076698303
+communicate round 21  accuracy: 0.729400098323822
+communicate round 22  accuracy: 0.8752997517585754
+communicate round 23  accuracy: 0.9172999262809753
+communicate round 24  accuracy: 0.8999999165534973
+communicate round 25  accuracy: 0.9035000205039978
+communicate round 26  accuracy: 0.8698000311851501
+communicate round 27  accuracy: 0.8552998304367065
+communicate round 28  accuracy: 0.9028000235557556
+communicate round 29  accuracy: 0.9298001527786255
+communicate round 30  accuracy: 0.9172999262809753
+communicate round 31  accuracy: 0.8222000002861023
+communicate round 32  accuracy: 0.8968000411987305
+communicate round 33  accuracy: 0.9115002155303955
+communicate round 34  accuracy: 0.9267001152038574
+communicate round 35  accuracy: 0.9231001734733582
+communicate round 36  accuracy: 0.9224001169204712
+communicate round 37  accuracy: 0.8528001308441162
+communicate round 38  accuracy: 0.8626000881195068
+communicate round 39  accuracy: 0.8815998435020447
+communicate round 40  accuracy: 0.9291000366210938
+communicate round 41  accuracy: 0.8810000419616699
+communicate round 42  accuracy: 0.904999852180481
+communicate round 43  accuracy: 0.8870002031326294
+communicate round 44  accuracy: 0.898600161075592
+communicate round 45  accuracy: 0.9241998791694641
+communicate round 46  accuracy: 0.9180998206138611
+communicate round 47  accuracy: 0.8968000411987305
+communicate round 48  accuracy: 0.9383000135421753
+communicate round 49  accuracy: 0.9129001498222351
+communicate round 50  accuracy: 0.8985001444816589
+communicate round 51  accuracy: 0.9254001975059509
+communicate round 52  accuracy: 0.9383999705314636
+communicate round 53  accuracy: 0.8924000263214111
+communicate round 54  accuracy: 0.9254998564720154
+communicate round 55  accuracy: 0.9166998267173767
+communicate round 56  accuracy: 0.9276002049446106
+communicate round 57  accuracy: 0.9046001434326172
+communicate round 58  accuracy: 0.9333000183105469
+communicate round 59  accuracy: 0.8944000601768494
+communicate round 60  accuracy: 0.9312000870704651
+communicate round 61  accuracy: 0.9384000301361084
+communicate round 62  accuracy: 0.9147000908851624
+communicate round 63  accuracy: 0.9352999925613403
+communicate round 64  accuracy: 0.8926002383232117
+communicate round 65  accuracy: 0.9328001737594604
+communicate round 66  accuracy: 0.9434999823570251
+communicate round 67  accuracy: 0.9218997955322266
+communicate round 68  accuracy: 0.9470000267028809
+communicate round 69  accuracy: 0.9381999969482422
+communicate round 70  accuracy: 0.9284000396728516
+communicate round 71  accuracy: 0.9166001081466675
+communicate round 72  accuracy: 0.9369999766349792
+communicate round 73  accuracy: 0.9054000377655029
+communicate round 74  accuracy: 0.9339000582695007
+communicate round 75  accuracy: 0.9423000812530518
+communicate round 76  accuracy: 0.9178999066352844
+communicate round 77  accuracy: 0.9323001503944397
+communicate round 78  accuracy: 0.9425999522209167
+communicate round 79  accuracy: 0.914599597454071
+communicate round 80  accuracy: 0.8901001811027527
+communicate round 81  accuracy: 0.9439998269081116
+communicate round 82  accuracy: 0.9054999351501465
+communicate round 83  accuracy: 0.921700119972229
+communicate round 84  accuracy: 0.9059000015258789
+communicate round 85  accuracy: 0.9284002184867859
+communicate round 86  accuracy: 0.941300094127655
+communicate round 87  accuracy: 0.93610018491745
+communicate round 88  accuracy: 0.9263999462127686
+communicate round 89  accuracy: 0.9373996257781982
+communicate round 90  accuracy: 0.9371001124382019
+communicate round 91  accuracy: 0.9332000017166138
+communicate round 92  accuracy: 0.9272000789642334
+communicate round 93  accuracy: 0.9312999248504639
+communicate round 94  accuracy: 0.937299907207489
+communicate round 95  accuracy: 0.9172000885009766
+communicate round 96  accuracy: 0.8943000435829163
+communicate round 97  accuracy: 0.9349001049995422
+communicate round 98  accuracy: 0.9090000987052917
+communicate round 99  accuracy: 0.9399000406265259
+communicate round 100  accuracy: 0.8826005458831787
+communicate round 101  accuracy: 0.9463003277778625
+communicate round 102  accuracy: 0.8684000372886658
+communicate round 103  accuracy: 0.8849000334739685
+communicate round 104  accuracy: 0.9355000257492065
+communicate round 105  accuracy: 0.9323000907897949
+communicate round 106  accuracy: 0.8869998455047607
+communicate round 107  accuracy: 0.9225999712944031
+communicate round 108  accuracy: 0.9228998422622681
+communicate round 109  accuracy: 0.9340003132820129
+communicate round 110  accuracy: 0.9393000602722168
+communicate round 111  accuracy: 0.9303996562957764
+communicate round 112  accuracy: 0.9372000098228455
+communicate round 113  accuracy: 0.91239994764328
+communicate round 114  accuracy: 0.9083001017570496
+communicate round 115  accuracy: 0.9453999996185303
+communicate round 116  accuracy: 0.9275000691413879
+communicate round 117  accuracy: 0.930400013923645
+communicate round 118  accuracy: 0.9228002429008484
+communicate round 119  accuracy: 0.8641997575759888
+communicate round 120  accuracy: 0.9231001138687134
+communicate round 121  accuracy: 0.9232999682426453
+communicate round 122  accuracy: 0.9058001637458801
+communicate round 123  accuracy: 0.9273999333381653
+communicate round 124  accuracy: 0.8688998818397522
+communicate round 125  accuracy: 0.9231001138687134
+communicate round 126  accuracy: 0.9312998056411743
+communicate round 127  accuracy: 0.9159999489784241
+communicate round 128  accuracy: 0.9379000663757324
+communicate round 129  accuracy: 0.9348000288009644
+communicate round 130  accuracy: 0.9434998631477356
+communicate round 131  accuracy: 0.935400128364563
+communicate round 132  accuracy: 0.9336998462677002
+communicate round 133  accuracy: 0.9202999472618103
+communicate round 134  accuracy: 0.9223998785018921
+communicate round 135  accuracy: 0.9249997735023499
+communicate round 136  accuracy: 0.8787001371383667
+communicate round 137  accuracy: 0.942200243473053
+communicate round 138  accuracy: 0.9415002465248108
+communicate round 139  accuracy: 0.9439999461174011
+communicate round 140  accuracy: 0.9282997846603394
+communicate round 141  accuracy: 0.9304001331329346
+communicate round 142  accuracy: 0.9277002215385437
+communicate round 143  accuracy: 0.9323000311851501
+communicate round 144  accuracy: 0.9038999676704407
+communicate round 145  accuracy: 0.9449997544288635
+communicate round 146  accuracy: 0.9380999803543091
+communicate round 147  accuracy: 0.9400001168251038
+communicate round 148  accuracy: 0.880600094795227
+communicate round 149  accuracy: 0.9440000653266907
+communicate round 150  accuracy: 0.9386000633239746
+communicate round 1  accuracy: 0.10100001096725464
+communicate round 2  accuracy: 0.09740001708269119
+communicate round 3  accuracy: 0.09740001708269119
+communicate round 4  accuracy: 0.0957999899983406
+communicate round 5  accuracy: 0.10100001096725464
+communicate round 6  accuracy: 0.10280001163482666
+communicate round 7  accuracy: 0.10319998860359192
+communicate round 8  accuracy: 0.09740001708269119
+communicate round 9  accuracy: 0.09799998998641968
+communicate round 10  accuracy: 0.10280001163482666
+communicate round 11  accuracy: 0.08919999748468399
+communicate round 12  accuracy: 0.10089998692274094
+communicate round 13  accuracy: 0.11349999159574509
+communicate round 14  accuracy: 0.10319998860359192
+communicate round 15  accuracy: 0.11349999159574509
+communicate round 16  accuracy: 0.0981999933719635
+communicate round 17  accuracy: 0.10280001163482666
+communicate round 18  accuracy: 0.11349999159574509
+communicate round 19  accuracy: 0.08919999748468399
+communicate round 20  accuracy: 0.10280001163482666
+communicate round 21  accuracy: 0.09740001708269119
+communicate round 22  accuracy: 0.09799998998641968
+communicate round 23  accuracy: 0.10280001163482666
+communicate round 24  accuracy: 0.0957999899983406
+communicate round 25  accuracy: 0.10280001163482666
+communicate round 26  accuracy: 0.10089998692274094
+communicate round 27  accuracy: 0.0981999933719635
+communicate round 28  accuracy: 0.10089998692274094
+communicate round 29  accuracy: 0.10100001096725464
+communicate round 30  accuracy: 0.08919999748468399
+communicate round 31  accuracy: 0.10100001096725464
+communicate round 32  accuracy: 0.09740001708269119
+communicate round 33  accuracy: 0.09799998998641968
+communicate round 34  accuracy: 0.0957999899983406
+communicate round 35  accuracy: 0.10280001163482666
+communicate round 36  accuracy: 0.09799998998641968
+communicate round 37  accuracy: 0.10319998860359192
+communicate round 38  accuracy: 0.10100001096725464
+communicate round 39  accuracy: 0.10319998860359192
+communicate round 1  accuracy: 0.11349999159574509
+communicate round 2  accuracy: 0.11349999159574509
+communicate round 3  accuracy: 0.1388000100851059
+communicate round 4  accuracy: 0.37880000472068787
+communicate round 5  accuracy: 0.30390000343322754
+communicate round 6  accuracy: 0.3800000250339508
+communicate round 7  accuracy: 0.5830999612808228
+communicate round 8  accuracy: 0.6252000331878662
+communicate round 9  accuracy: 0.6390999555587769
+communicate round 10  accuracy: 0.6850000023841858
+communicate round 11  accuracy: 0.8089998364448547
+communicate round 12  accuracy: 0.8472001552581787
+communicate round 13  accuracy: 0.8613998889923096
+communicate round 14  accuracy: 0.8871999382972717
+communicate round 15  accuracy: 0.7864000797271729
+communicate round 16  accuracy: 0.6534999012947083
+communicate round 17  accuracy: 0.8832997679710388
+communicate round 18  accuracy: 0.8798001408576965
+communicate round 19  accuracy: 0.8057000041007996
+communicate round 20  accuracy: 0.8664000034332275
+communicate round 21  accuracy: 0.9050999283790588
+communicate round 22  accuracy: 0.8544001579284668
+communicate round 23  accuracy: 0.9201001524925232
+communicate round 24  accuracy: 0.8552998304367065
+communicate round 25  accuracy: 0.8410998582839966
+communicate round 26  accuracy: 0.8518999814987183
+communicate round 27  accuracy: 0.876500129699707
+communicate round 28  accuracy: 0.8571998476982117
+communicate round 29  accuracy: 0.8845999836921692
+communicate round 30  accuracy: 0.9067000150680542
+communicate round 31  accuracy: 0.8941000699996948
+communicate round 32  accuracy: 0.868699848651886
+communicate round 33  accuracy: 0.8451998233795166
+communicate round 34  accuracy: 0.9266997575759888
+communicate round 35  accuracy: 0.8808997869491577
+communicate round 36  accuracy: 0.8945997953414917
+communicate round 37  accuracy: 0.9138999581336975
+communicate round 38  accuracy: 0.8928999900817871
+communicate round 39  accuracy: 0.9186000823974609
+communicate round 40  accuracy: 0.9358001351356506
+communicate round 41  accuracy: 0.9317998290061951
+communicate round 42  accuracy: 0.8929998874664307
+communicate round 43  accuracy: 0.9159998297691345
+communicate round 44  accuracy: 0.8785998821258545
+communicate round 45  accuracy: 0.9425000548362732
+communicate round 46  accuracy: 0.9106000065803528
+communicate round 47  accuracy: 0.8985999822616577
+communicate round 48  accuracy: 0.9040000438690186
+communicate round 49  accuracy: 0.8942000269889832
+communicate round 1 Clean data accuracy: 0.09799998998641968
+communicate round 1 Clean data accuracy: 0.09740001708269119
+communicate round 1 Clean data accuracy: 0.10089998692274094
+communicate round 1 Backdoored data accuracy: 0.0
+communicate round 2 Clean data accuracy: 0.10280001163482666
+communicate round 2 Backdoored data accuracy: 1.0
+communicate round 3 Clean data accuracy: 0.34519991278648376
+communicate round 3 Backdoored data accuracy: 0.07830002158880234
+communicate round 4 Clean data accuracy: 0.45629987120628357
+communicate round 4 Backdoored data accuracy: 0.11190000921487808
+communicate round 5 Clean data accuracy: 0.38380002975463867
+communicate round 5 Backdoored data accuracy: 0.5326999425888062
+communicate round 6 Clean data accuracy: 0.44069990515708923
+communicate round 6 Backdoored data accuracy: 0.0926000252366066
+communicate round 7 Clean data accuracy: 0.5454999208450317
+communicate round 7 Backdoored data accuracy: 0.25939998030662537
+communicate round 8 Clean data accuracy: 0.4668000638484955
+communicate round 8 Backdoored data accuracy: 0.12020000070333481
+communicate round 9 Clean data accuracy: 0.4225001037120819
+communicate round 9 Backdoored data accuracy: 0.06289999932050705
+communicate round 10 Clean data accuracy: 0.5999999642372131
+communicate round 10 Backdoored data accuracy: 0.061900001019239426
+communicate round 11 Clean data accuracy: 0.6940999627113342
+communicate round 11 Backdoored data accuracy: 0.12230002135038376
+communicate round 12 Clean data accuracy: 0.7943000793457031
+communicate round 12 Backdoored data accuracy: 0.10189999639987946
+communicate round 13 Clean data accuracy: 0.7532000541687012
+communicate round 13 Backdoored data accuracy: 0.10020001977682114
+communicate round 14 Clean data accuracy: 0.8559998273849487
+communicate round 14 Backdoored data accuracy: 0.13350002467632294
+communicate round 15 Clean data accuracy: 0.786799967288971
+communicate round 15 Backdoored data accuracy: 0.06030000373721123
+communicate round 16 Clean data accuracy: 0.8446000218391418
+communicate round 16 Backdoored data accuracy: 0.0
+communicate round 17 Clean data accuracy: 0.835399866104126
+communicate round 17 Backdoored data accuracy: 0.1809999793767929
+communicate round 18 Clean data accuracy: 0.8689998388290405
+communicate round 18 Backdoored data accuracy: 0.1430000215768814
+communicate round 1 Clean data accuracy: 0.10100001096725464
+communicate round 1 Backdoored data accuracy: 0.0
+communicate round 2 Clean data accuracy: 0.0957999899983406
+communicate round 2 Backdoored data accuracy: 0.0
+communicate round 3 Clean data accuracy: 0.09799998998641968
+communicate round 3 Backdoored data accuracy: 0.0
+communicate round 4 Clean data accuracy: 0.0981999933719635
+communicate round 4 Backdoored data accuracy: 0.0
+communicate round 5 Clean data accuracy: 0.11349999159574509
+communicate round 5 Backdoored data accuracy: 0.0
+communicate round 6 Clean data accuracy: 0.10089998692274094
+communicate round 6 Backdoored data accuracy: 0.0
+communicate round 7 Clean data accuracy: 0.09799998998641968
+communicate round 7 Backdoored data accuracy: 0.0
+communicate round 8 Clean data accuracy: 0.09799998998641968
+communicate round 8 Backdoored data accuracy: 0.0
+communicate round 9 Clean data accuracy: 0.11349999159574509
+communicate round 9 Backdoored data accuracy: 0.0
+communicate round 10 Clean data accuracy: 0.10100001096725464
+communicate round 10 Backdoored data accuracy: 0.0
+communicate round 11 Clean data accuracy: 0.0981999933719635
+communicate round 11 Backdoored data accuracy: 0.0
+communicate round 12 Clean data accuracy: 0.11349999159574509
+communicate round 12 Backdoored data accuracy: 0.0
+communicate round 13 Clean data accuracy: 0.11349999159574509
+communicate round 13 Backdoored data accuracy: 0.0
+communicate round 14 Clean data accuracy: 0.10280001163482666
+communicate round 14 Backdoored data accuracy: 1.0
+communicate round 1 Clean data accuracy: 0.10100001096725464
+communicate round 1 Backdoored data accuracy: 0.0
+communicate round 2 Clean data accuracy: 0.09220002591609955
+communicate round 2 Backdoored data accuracy: 0.0
+communicate round 3 Clean data accuracy: 0.32819995284080505
+communicate round 3 Backdoored data accuracy: 0.521399974822998
+communicate round 4 Clean data accuracy: 0.4132999777793884
+communicate round 4 Backdoored data accuracy: 0.07999999821186066
+communicate round 5 Clean data accuracy: 0.5184000730514526
+communicate round 5 Backdoored data accuracy: 0.06520000100135803
+communicate round 6 Clean data accuracy: 0.4926001727581024
+communicate round 6 Backdoored data accuracy: 0.23279990255832672
+communicate round 7 Clean data accuracy: 0.660399854183197
+communicate round 7 Backdoored data accuracy: 0.03269997984170914
+communicate round 8 Clean data accuracy: 0.6373999118804932
+communicate round 8 Backdoored data accuracy: 0.031899984925985336
+communicate round 9 Clean data accuracy: 0.776699960231781
+communicate round 9 Backdoored data accuracy: 0.8994002342224121
+communicate round 10 Clean data accuracy: 0.7286998629570007
+communicate round 10 Backdoored data accuracy: 1.0
+communicate round 11 Clean data accuracy: 0.7347998023033142
+communicate round 11 Backdoored data accuracy: 1.0
+communicate round 12 Clean data accuracy: 0.6136000156402588
+communicate round 12 Backdoored data accuracy: 0.7778999209403992
+communicate round 13 Clean data accuracy: 0.7843999266624451
+communicate round 13 Backdoored data accuracy: 0.96729975938797
+communicate round 14 Clean data accuracy: 0.7901998162269592
+communicate round 14 Backdoored data accuracy: 1.0
+communicate round 15 Clean data accuracy: 0.7156999111175537
+communicate round 15 Backdoored data accuracy: 1.0
+communicate round 16 Clean data accuracy: 0.6456999778747559
+communicate round 16 Backdoored data accuracy: 1.0
+communicate round 17 Clean data accuracy: 0.6974999308586121
+communicate round 17 Backdoored data accuracy: 1.0
+communicate round 18 Clean data accuracy: 0.8058000802993774
+communicate round 18 Backdoored data accuracy: 0.8292000889778137
+communicate round 19 Clean data accuracy: 0.8838997483253479
+communicate round 19 Backdoored data accuracy: 1.0
+communicate round 20 Clean data accuracy: 0.8198001384735107
+communicate round 20 Backdoored data accuracy: 1.0
+communicate round 21 Clean data accuracy: 0.8672000169754028
+communicate round 21 Backdoored data accuracy: 1.0
+communicate round 22 Clean data accuracy: 0.8282999396324158
+communicate round 22 Backdoored data accuracy: 1.0
+communicate round 23 Clean data accuracy: 0.7657999992370605
+communicate round 23 Backdoored data accuracy: 0.9839999079704285
+communicate round 24 Clean data accuracy: 0.8239999413490295
+communicate round 24 Backdoored data accuracy: 1.0
+communicate round 25 Clean data accuracy: 0.8305999040603638
+communicate round 25 Backdoored data accuracy: 1.0
+communicate round 26 Clean data accuracy: 0.7883999943733215
+communicate round 26 Backdoored data accuracy: 1.0
+communicate round 27 Clean data accuracy: 0.8419997692108154
+communicate round 27 Backdoored data accuracy: 1.0
+communicate round 28 Clean data accuracy: 0.846899688243866
+communicate round 28 Backdoored data accuracy: 1.0
+communicate round 29 Clean data accuracy: 0.7752001285552979
+communicate round 29 Backdoored data accuracy: 1.0
+communicate round 30 Clean data accuracy: 0.8050000071525574
+communicate round 30 Backdoored data accuracy: 1.0
+communicate round 31 Clean data accuracy: 0.7676000595092773
+communicate round 31 Backdoored data accuracy: 1.0
+communicate round 32 Clean data accuracy: 0.8079999089241028
+communicate round 32 Backdoored data accuracy: 1.0
+communicate round 33 Clean data accuracy: 0.810200035572052
+communicate round 33 Backdoored data accuracy: 1.0
+communicate round 34 Clean data accuracy: 0.8734001517295837
+communicate round 34 Backdoored data accuracy: 1.0
+communicate round 35 Clean data accuracy: 0.7582000494003296
+communicate round 35 Backdoored data accuracy: 1.0
+communicate round 36 Clean data accuracy: 0.8236998319625854
+communicate round 36 Backdoored data accuracy: 1.0
+communicate round 37 Clean data accuracy: 0.8742998838424683
+communicate round 37 Backdoored data accuracy: 1.0
+communicate round 38 Clean data accuracy: 0.8667001724243164
+communicate round 38 Backdoored data accuracy: 1.0
+communicate round 39 Clean data accuracy: 0.8176001310348511
+communicate round 39 Backdoored data accuracy: 1.0
+communicate round 40 Clean data accuracy: 0.862899899482727
+communicate round 40 Backdoored data accuracy: 1.0
+communicate round 41 Clean data accuracy: 0.889900267124176
+communicate round 41 Backdoored data accuracy: 1.0
+communicate round 42 Clean data accuracy: 0.8310999870300293
+communicate round 42 Backdoored data accuracy: 1.0
+communicate round 43 Clean data accuracy: 0.8616002202033997
+communicate round 43 Backdoored data accuracy: 1.0
+communicate round 44 Clean data accuracy: 0.8579001426696777
+communicate round 44 Backdoored data accuracy: 1.0
+communicate round 45 Clean data accuracy: 0.8519998788833618
+communicate round 45 Backdoored data accuracy: 1.0
+communicate round 46 Clean data accuracy: 0.884399950504303
+communicate round 46 Backdoored data accuracy: 1.0
+communicate round 47 Clean data accuracy: 0.8313000798225403
+communicate round 47 Backdoored data accuracy: 1.0
+communicate round 1 Clean data accuracy: 0.0957999899983406
+communicate round 1 Backdoored data accuracy: 0.0
+communicate round 1 Clean data accuracy: 0.10100001096725464
+communicate round 1 Backdoored data accuracy: 0.0
+communicate round 1 Clean data accuracy: 0.10280001163482666
+communicate round 1 Backdoored data accuracy: 1.0
+communicate round 2 Clean data accuracy: 0.10280001163482666
+communicate round 2 Backdoored data accuracy: 1.0
+communicate round 3 Clean data accuracy: 0.4094999134540558
+communicate round 3 Backdoored data accuracy: 0.0
+communicate round 4 Clean data accuracy: 0.42249995470046997
+communicate round 4 Backdoored data accuracy: 0.04249997064471245
+communicate round 5 Clean data accuracy: 0.5827999711036682
+communicate round 5 Backdoored data accuracy: 1.0
+communicate round 6 Clean data accuracy: 0.648900032043457
+communicate round 6 Backdoored data accuracy: 1.0
+communicate round 1 Clean data accuracy: 0.11349999159574509
+communicate round 1 Backdoored data accuracy: 0.0
+communicate round 2 Clean data accuracy: 0.09799998998641968
+communicate round 2 Backdoored data accuracy: 0.0
+communicate round 3 Clean data accuracy: 0.0957999899983406
+communicate round 3 Backdoored data accuracy: 0.0
+communicate round 4 Clean data accuracy: 0.11349999159574509
+communicate round 4 Backdoored data accuracy: 0.0
+communicate round 5 Clean data accuracy: 0.0981999933719635
+communicate round 5 Backdoored data accuracy: 0.0
+communicate round 6 Clean data accuracy: 0.11349999159574509
+communicate round 6 Backdoored data accuracy: 0.0
+communicate round 7 Clean data accuracy: 0.11349999159574509
+communicate round 7 Backdoored data accuracy: 0.0
+communicate round 8 Clean data accuracy: 0.10089998692274094
+communicate round 8 Backdoored data accuracy: 0.0
+communicate round 9 Clean data accuracy: 0.10100001096725464
+communicate round 9 Backdoored data accuracy: 0.0
+communicate round 10 Clean data accuracy: 0.09799998998641968
+communicate round 10 Backdoored data accuracy: 0.0
+communicate round 1 Clean data accuracy: 0.0981999933719635
+communicate round 1 Backdoored data accuracy: 1.0
+communicate round 2 Clean data accuracy: 0.10100001096725464
+communicate round 2 Backdoored data accuracy: 1.0
+communicate round 3 Clean data accuracy: 0.16910000145435333
+communicate round 3 Backdoored data accuracy: 1.0
+communicate round 4 Clean data accuracy: 0.3763999938964844
+communicate round 4 Backdoored data accuracy: 0.0
+communicate round 5 Clean data accuracy: 0.4146999716758728
+communicate round 5 Backdoored data accuracy: 0.0
+communicate round 6 Clean data accuracy: 0.6390998959541321
+communicate round 6 Backdoored data accuracy: 0.0
+communicate round 7 Clean data accuracy: 0.6037999391555786
+communicate round 7 Backdoored data accuracy: 1.0
+communicate round 8 Clean data accuracy: 0.6065000295639038
+communicate round 8 Backdoored data accuracy: 1.0
+communicate round 9 Clean data accuracy: 0.7083999514579773
+communicate round 9 Backdoored data accuracy: 1.0
+communicate round 10 Clean data accuracy: 0.69489985704422
+communicate round 10 Backdoored data accuracy: 1.0
+communicate round 11 Clean data accuracy: 0.786300003528595
+communicate round 11 Backdoored data accuracy: 1.0
+communicate round 12 Clean data accuracy: 0.8371000289916992
+communicate round 12 Backdoored data accuracy: 1.0
+communicate round 13 Clean data accuracy: 0.7612999081611633
+communicate round 13 Backdoored data accuracy: 1.0
+communicate round 14 Clean data accuracy: 0.7872999906539917
+communicate round 14 Backdoored data accuracy: 1.0
+communicate round 15 Clean data accuracy: 0.7133998870849609
+communicate round 15 Backdoored data accuracy: 1.0
+communicate round 16 Clean data accuracy: 0.6873000264167786
+communicate round 16 Backdoored data accuracy: 1.0
+communicate round 17 Clean data accuracy: 0.8301998972892761
+communicate round 17 Backdoored data accuracy: 1.0
+communicate round 18 Clean data accuracy: 0.8051000833511353
+communicate round 18 Backdoored data accuracy: 1.0
+communicate round 19 Clean data accuracy: 0.8927000164985657
+communicate round 19 Backdoored data accuracy: 1.0
+communicate round 20 Clean data accuracy: 0.7854999303817749
+communicate round 20 Backdoored data accuracy: 1.0
+communicate round 21 Clean data accuracy: 0.7368997931480408
+communicate round 21 Backdoored data accuracy: 1.0
+communicate round 22 Clean data accuracy: 0.8625999093055725
+communicate round 22 Backdoored data accuracy: 0.9989998936653137
+communicate round 23 Clean data accuracy: 0.810799777507782
+communicate round 23 Backdoored data accuracy: 1.0
+communicate round 1 Clean data accuracy: 0.08150001615285873
+communicate round 1 Backdoored data accuracy: 0.611099898815155
+communicate round 2 Clean data accuracy: 0.17929993569850922
+communicate round 2 Backdoored data accuracy: 0.0
+communicate round 1 Clean data accuracy: 0.0981999933719635
+communicate round 1 Backdoored data accuracy: 0.0
+communicate round 2 Clean data accuracy: 0.11209999769926071
+communicate round 2 Backdoored data accuracy: 1.0
+communicate round 3 Clean data accuracy: 0.2532999813556671
+communicate round 3 Backdoored data accuracy: 1.0
+communicate round 4 Clean data accuracy: 0.43519991636276245
+communicate round 4 Backdoored data accuracy: 1.0
+communicate round 5 Clean data accuracy: 0.5710000395774841
+communicate round 5 Backdoored data accuracy: 1.0
+communicate round 6 Clean data accuracy: 0.7235999703407288
+communicate round 6 Backdoored data accuracy: 1.0
+communicate round 7 Clean data accuracy: 0.7813999056816101
+communicate round 7 Backdoored data accuracy: 1.0
+communicate round 8 Clean data accuracy: 0.7692001461982727
+communicate round 8 Backdoored data accuracy: 1.0
+communicate round 9 Clean data accuracy: 0.8329000473022461
+communicate round 9 Backdoored data accuracy: 1.0
+communicate round 10 Clean data accuracy: 0.7580998539924622
+communicate round 10 Backdoored data accuracy: 1.0
+communicate round 11 Clean data accuracy: 0.85940021276474
+communicate round 11 Backdoored data accuracy: 1.0
+communicate round 12 Clean data accuracy: 0.8162998557090759
+communicate round 12 Backdoored data accuracy: 1.0
+communicate round 13 Clean data accuracy: 0.7719998955726624
+communicate round 13 Backdoored data accuracy: 1.0
+communicate round 14 Clean data accuracy: 0.7651000618934631
+communicate round 14 Backdoored data accuracy: 1.0
+communicate round 15 Clean data accuracy: 0.8128998875617981
+communicate round 15 Backdoored data accuracy: 1.0
+communicate round 16 Clean data accuracy: 0.7669999599456787
+communicate round 16 Backdoored data accuracy: 1.0
+communicate round 1 Clean data accuracy: 0.10319998860359192
+communicate round 1 Backdoored data accuracy: 0.0
+communicate round 2 Clean data accuracy: 0.10280001163482666
+communicate round 2 Backdoored data accuracy: 1.0
+communicate round 3 Clean data accuracy: 0.20809993147850037
+communicate round 3 Backdoored data accuracy: 0.028399983420968056
+communicate round 4 Clean data accuracy: 0.23029989004135132
+communicate round 4 Backdoored data accuracy: 1.0
+communicate round 5 Clean data accuracy: 0.5636000633239746
+communicate round 5 Backdoored data accuracy: 1.0
+communicate round 6 Clean data accuracy: 0.5057000517845154
+communicate round 6 Backdoored data accuracy: 1.0
+communicate round 7 Clean data accuracy: 0.7846000790596008
+communicate round 7 Backdoored data accuracy: 1.0
+communicate round 8 Clean data accuracy: 0.7171998620033264
+communicate round 8 Backdoored data accuracy: 1.0
+communicate round 9 Clean data accuracy: 0.7936001420021057
+communicate round 9 Backdoored data accuracy: 1.0
+communicate round 10 Clean data accuracy: 0.7999997735023499
+communicate round 10 Backdoored data accuracy: 1.0
+communicate round 11 Clean data accuracy: 0.8220999240875244
+communicate round 11 Backdoored data accuracy: 1.0
+communicate round 12 Clean data accuracy: 0.8618000745773315
+communicate round 12 Backdoored data accuracy: 1.0
+communicate round 13 Clean data accuracy: 0.8220000267028809
+communicate round 13 Backdoored data accuracy: 1.0
+communicate round 14 Clean data accuracy: 0.9032001495361328
+communicate round 14 Backdoored data accuracy: 1.0
+communicate round 15 Clean data accuracy: 0.8944999575614929
+communicate round 15 Backdoored data accuracy: 1.0
+communicate round 1 Clean data accuracy: 0.09740001708269119
+communicate round 1 Backdoored data accuracy: 0.0
+communicate round 2 Clean data accuracy: 0.10089998692274094
+communicate round 2 Backdoored data accuracy: 0.0
+communicate round 3 Clean data accuracy: 0.10100001096725464
+communicate round 3 Backdoored data accuracy: 0.0
+communicate round 4 Clean data accuracy: 0.11349999159574509
+communicate round 4 Backdoored data accuracy: 0.0
+communicate round 5 Clean data accuracy: 0.10999997705221176
+communicate round 5 Backdoored data accuracy: 0.0
+communicate round 6 Clean data accuracy: 0.1468999683856964
+communicate round 6 Backdoored data accuracy: 0.0
+communicate round 7 Clean data accuracy: 0.4494999945163727
+communicate round 7 Backdoored data accuracy: 0.0
+communicate round 8 Clean data accuracy: 0.5285998582839966
+communicate round 8 Backdoored data accuracy: 0.0
+communicate round 9 Clean data accuracy: 0.7328998446464539
+communicate round 9 Backdoored data accuracy: 0.0
+communicate round 10 Clean data accuracy: 0.6053999662399292
+communicate round 10 Backdoored data accuracy: 0.0
+communicate round 11 Clean data accuracy: 0.5979000329971313
+communicate round 11 Backdoored data accuracy: 0.0
+communicate round 12 Clean data accuracy: 0.6547999382019043
+communicate round 12 Backdoored data accuracy: 0.3577999770641327
+communicate round 13 Clean data accuracy: 0.6180998682975769
+communicate round 13 Backdoored data accuracy: 0.001199999824166298
+communicate round 14 Clean data accuracy: 0.7866997122764587
+communicate round 14 Backdoored data accuracy: 0.0
+communicate round 15 Clean data accuracy: 0.7222000956535339
+communicate round 15 Backdoored data accuracy: 0.0
+communicate round 16 Clean data accuracy: 0.8341999650001526
+communicate round 16 Backdoored data accuracy: 0.0
+communicate round 17 Clean data accuracy: 0.8242000341415405
+communicate round 17 Backdoored data accuracy: 0.0
+communicate round 18 Clean data accuracy: 0.7910000681877136
+communicate round 18 Backdoored data accuracy: 0.0
+communicate round 19 Clean data accuracy: 0.8091000318527222
+communicate round 19 Backdoored data accuracy: 0.0
+communicate round 20 Clean data accuracy: 0.7179999351501465
+communicate round 20 Backdoored data accuracy: 0.0
+communicate round 21 Clean data accuracy: 0.7402000427246094
+communicate round 21 Backdoored data accuracy: 0.0
+communicate round 22 Clean data accuracy: 0.8690000176429749
+communicate round 22 Backdoored data accuracy: 0.8709997534751892
+communicate round 23 Clean data accuracy: 0.8151000142097473
+communicate round 23 Backdoored data accuracy: 0.0007999998633749783
+communicate round 24 Clean data accuracy: 0.7232999801635742
+communicate round 24 Backdoored data accuracy: 0.0004999999655410647
+communicate round 25 Clean data accuracy: 0.7068999409675598
+communicate round 25 Backdoored data accuracy: 1.0
+communicate round 26 Clean data accuracy: 0.7617999315261841
+communicate round 26 Backdoored data accuracy: 0.6003999710083008
+communicate round 27 Clean data accuracy: 0.7478000521659851
+communicate round 27 Backdoored data accuracy: 1.0
+communicate round 28 Clean data accuracy: 0.8071997761726379
+communicate round 28 Backdoored data accuracy: 1.0
+communicate round 29 Clean data accuracy: 0.8044001460075378
+communicate round 29 Backdoored data accuracy: 1.0
+communicate round 30 Clean data accuracy: 0.8499000072479248
+communicate round 30 Backdoored data accuracy: 1.0
+communicate round 31 Clean data accuracy: 0.8684000968933105
+communicate round 31 Backdoored data accuracy: 1.0
+communicate round 32 Clean data accuracy: 0.7714998722076416
+communicate round 32 Backdoored data accuracy: 1.0
+communicate round 33 Clean data accuracy: 0.7392997741699219
+communicate round 33 Backdoored data accuracy: 0.0
+communicate round 34 Clean data accuracy: 0.7992998361587524
+communicate round 34 Backdoored data accuracy: 0.0
+communicate round 35 Clean data accuracy: 0.812799870967865
+communicate round 35 Backdoored data accuracy: 0.0
+communicate round 36 Clean data accuracy: 0.8474999666213989
+communicate round 36 Backdoored data accuracy: 0.0
+communicate round 37 Clean data accuracy: 0.8630000948905945
+communicate round 37 Backdoored data accuracy: 0.0
+communicate round 38 Clean data accuracy: 0.8709999918937683
+communicate round 38 Backdoored data accuracy: 1.0
+communicate round 39 Clean data accuracy: 0.8883998394012451
+communicate round 39 Backdoored data accuracy: 1.0
+communicate round 40 Clean data accuracy: 0.8512001037597656
+communicate round 40 Backdoored data accuracy: 1.0
+communicate round 41 Clean data accuracy: 0.8671001195907593
+communicate round 41 Backdoored data accuracy: 1.0
+communicate round 42 Clean data accuracy: 0.907599925994873
+communicate round 42 Backdoored data accuracy: 1.0
+communicate round 43 Clean data accuracy: 0.8305001854896545
+communicate round 43 Backdoored data accuracy: 1.0
+communicate round 44 Clean data accuracy: 0.8768000602722168
+communicate round 44 Backdoored data accuracy: 1.0
+communicate round 45 Clean data accuracy: 0.863800048828125
+communicate round 45 Backdoored data accuracy: 1.0
+communicate round 46 Clean data accuracy: 0.8665998578071594
+communicate round 46 Backdoored data accuracy: 1.0
+communicate round 47 Clean data accuracy: 0.8508999943733215
+communicate round 47 Backdoored data accuracy: 1.0
+communicate round 48 Clean data accuracy: 0.8666001558303833
+communicate round 48 Backdoored data accuracy: 1.0
+communicate round 49 Clean data accuracy: 0.8827002048492432
+communicate round 49 Backdoored data accuracy: 1.0
+communicate round 50 Clean data accuracy: 0.8787000179290771
+communicate round 50 Backdoored data accuracy: 1.0
+communicate round 51 Clean data accuracy: 0.9117999076843262
+communicate round 51 Backdoored data accuracy: 1.0
+communicate round 52 Clean data accuracy: 0.8744000792503357
+communicate round 52 Backdoored data accuracy: 1.0
+communicate round 53 Clean data accuracy: 0.9006998538970947
+communicate round 53 Backdoored data accuracy: 1.0
+communicate round 54 Clean data accuracy: 0.8986002206802368
+communicate round 54 Backdoored data accuracy: 1.0
+communicate round 55 Clean data accuracy: 0.823199987411499
+communicate round 55 Backdoored data accuracy: 1.0
+communicate round 56 Clean data accuracy: 0.7853999137878418
+communicate round 56 Backdoored data accuracy: 1.0
+communicate round 57 Clean data accuracy: 0.8710998296737671
+communicate round 57 Backdoored data accuracy: 1.0
+communicate round 58 Clean data accuracy: 0.8594000935554504
+communicate round 58 Backdoored data accuracy: 1.0
+communicate round 59 Clean data accuracy: 0.8914999961853027
+communicate round 59 Backdoored data accuracy: 1.0
+communicate round 60 Clean data accuracy: 0.8081000447273254
+communicate round 60 Backdoored data accuracy: 1.0
+communicate round 61 Clean data accuracy: 0.8792000412940979
+communicate round 61 Backdoored data accuracy: 1.0
+communicate round 62 Clean data accuracy: 0.8792997598648071
+communicate round 62 Backdoored data accuracy: 1.0
+communicate round 63 Clean data accuracy: 0.8913999795913696
+communicate round 63 Backdoored data accuracy: 1.0
+communicate round 64 Clean data accuracy: 0.7994000911712646
+communicate round 64 Backdoored data accuracy: 1.0
+communicate round 65 Clean data accuracy: 0.8035998344421387
+communicate round 65 Backdoored data accuracy: 0.0
+communicate round 66 Clean data accuracy: 0.8916000723838806
+communicate round 66 Backdoored data accuracy: 1.0
+communicate round 67 Clean data accuracy: 0.8886998295783997
+communicate round 67 Backdoored data accuracy: 0.9619999527931213
+communicate round 68 Clean data accuracy: 0.8931000232696533
+communicate round 68 Backdoored data accuracy: 0.0
+communicate round 69 Clean data accuracy: 0.8629999160766602
+communicate round 69 Backdoored data accuracy: 1.0
+communicate round 70 Clean data accuracy: 0.8182001113891602
+communicate round 70 Backdoored data accuracy: 1.0
+communicate round 71 Clean data accuracy: 0.8740000128746033
+communicate round 71 Backdoored data accuracy: 1.0
+communicate round 72 Clean data accuracy: 0.8847000598907471
+communicate round 72 Backdoored data accuracy: 1.0
+communicate round 73 Clean data accuracy: 0.8640998601913452
+communicate round 73 Backdoored data accuracy: 1.0
+communicate round 74 Clean data accuracy: 0.8135998845100403
+communicate round 74 Backdoored data accuracy: 1.0
+communicate round 75 Clean data accuracy: 0.8722001314163208
+communicate round 75 Backdoored data accuracy: 1.0
+communicate round 76 Clean data accuracy: 0.8733000159263611
+communicate round 76 Backdoored data accuracy: 1.0
+communicate round 77 Clean data accuracy: 0.8619002103805542
+communicate round 77 Backdoored data accuracy: 1.0
+communicate round 78 Clean data accuracy: 0.8680001497268677
+communicate round 78 Backdoored data accuracy: 1.0
+communicate round 79 Clean data accuracy: 0.8589999079704285
+communicate round 79 Backdoored data accuracy: 1.0
+communicate round 80 Clean data accuracy: 0.8971998691558838
+communicate round 80 Backdoored data accuracy: 1.0
+communicate round 81 Clean data accuracy: 0.9088000059127808
+communicate round 81 Backdoored data accuracy: 1.0
+communicate round 82 Clean data accuracy: 0.9079999327659607
+communicate round 82 Backdoored data accuracy: 1.0
+communicate round 83 Clean data accuracy: 0.831000030040741
+communicate round 83 Backdoored data accuracy: 1.0
+communicate round 84 Clean data accuracy: 0.9157999157905579
+communicate round 84 Backdoored data accuracy: 1.0
+communicate round 85 Clean data accuracy: 0.8927999138832092
+communicate round 85 Backdoored data accuracy: 1.0
+communicate round 86 Clean data accuracy: 0.8949998021125793
+communicate round 86 Backdoored data accuracy: 1.0
+communicate round 87 Clean data accuracy: 0.8564000725746155
+communicate round 87 Backdoored data accuracy: 1.0
+communicate round 88 Clean data accuracy: 0.8160998225212097
+communicate round 88 Backdoored data accuracy: 1.0
+communicate round 89 Clean data accuracy: 0.8934999108314514
+communicate round 89 Backdoored data accuracy: 1.0
+communicate round 90 Clean data accuracy: 0.7985000610351562
+communicate round 90 Backdoored data accuracy: 1.0
+communicate round 91 Clean data accuracy: 0.7456998825073242
+communicate round 91 Backdoored data accuracy: 1.0
+communicate round 92 Clean data accuracy: 0.8179997801780701
+communicate round 92 Backdoored data accuracy: 1.0
+communicate round 93 Clean data accuracy: 0.910599946975708
+communicate round 93 Backdoored data accuracy: 1.0
+communicate round 94 Clean data accuracy: 0.8875999450683594
+communicate round 94 Backdoored data accuracy: 1.0
+communicate round 95 Clean data accuracy: 0.7626997828483582
+communicate round 95 Backdoored data accuracy: 1.0
+communicate round 96 Clean data accuracy: 0.8992000222206116
+communicate round 96 Backdoored data accuracy: 1.0
+communicate round 97 Clean data accuracy: 0.90690016746521
+communicate round 97 Backdoored data accuracy: 1.0
+communicate round 98 Clean data accuracy: 0.8863002061843872
+communicate round 98 Backdoored data accuracy: 1.0
+communicate round 99 Clean data accuracy: 0.9093000292778015
+communicate round 99 Backdoored data accuracy: 1.0
+communicate round 100 Clean data accuracy: 0.905899703502655
+communicate round 100 Backdoored data accuracy: 1.0

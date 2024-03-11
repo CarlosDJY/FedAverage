@@ -1,0 +1,90 @@
+Your test results here...
+communicate round 1Clients: ['client28', 'client19', 'client12', 'client40', 'client16', 'client36', 'client41', 'client1', 'client39', 'client67']Communicate round 1 Clean data accuracy: 0.10280001163482666
+Communicate round 1 Backdoored data accuracy: 1.0
+Original Label: 8Predicted Label (clean): 7Predicted Label (backdoored): 7communicate round 2Clients: ['client6', 'client72', 'client0', 'client98', 'client90', 'client59', 'client8', 'client10', 'client47', 'client69']Communicate round 2 Clean data accuracy: 0.05249999836087227
+Communicate round 2 Backdoored data accuracy: 1.0
+Original Label: 6Predicted Label (clean): 5Predicted Label (backdoored): 7communicate round 3Clients: ['client88', 'client14', 'client90', 'client64', 'client89', 'client77', 'client52', 'client82', 'client79', 'client28']Communicate round 3 Clean data accuracy: 0.1839999556541443
+Communicate round 3 Backdoored data accuracy: 0.0
+Original Label: 5Predicted Label (clean): 3Predicted Label (backdoored): 5communicate round 4Clients: ['client57', 'client45', 'client15', 'client38', 'client86', 'client39', 'client96', 'client6', 'client60', 'client0']Communicate round 4 Clean data accuracy: 0.4046999216079712
+Communicate round 4 Backdoored data accuracy: 0.3149999976158142
+Original Label: 1Predicted Label (clean): 1Predicted Label (backdoored): 1communicate round 5Clients: ['client74', 'client0', 'client7', 'client80', 'client48', 'client49', 'client56', 'client58', 'client61', 'client68']Communicate round 5 Clean data accuracy: 0.5814999938011169
+Communicate round 5 Backdoored data accuracy: 0.08030002564191818
+Original Label: 9Predicted Label (clean): 4Predicted Label (backdoored): 4communicate round 6Clients: ['client78', 'client9', 'client43', 'client17', 'client1', 'client8', 'client77', 'client53', 'client18', 'client56']Communicate round 6 Clean data accuracy: 0.6498000025749207
+Communicate round 6 Backdoored data accuracy: 0.06689999252557755
+Original Label: 3Predicted Label (clean): 3Predicted Label (backdoored): 1communicate round 7Clients: ['client35', 'client4', 'client21', 'client2', 'client9', 'client33', 'client27', 'client60', 'client93', 'client40']Communicate round 7 Clean data accuracy: 0.5673999786376953
+Communicate round 7 Backdoored data accuracy: 0.029699981212615967
+Original Label: 7Predicted Label (clean): 7Predicted Label (backdoored): 1communicate round 8Clients: ['client92', 'client8', 'client26', 'client71', 'client31', 'client20', 'client67', 'client55', 'client57', 'client78']Communicate round 8 Clean data accuracy: 0.7900001406669617
+Communicate round 8 Backdoored data accuracy: 0.010099995881319046
+Original Label: 6Predicted Label (clean): 6Predicted Label (backdoored): 1communicate round 9Clients: ['client38', 'client61', 'client37', 'client84', 'client21', 'client24', 'client75', 'client86', 'client36', 'client12']Communicate round 9 Clean data accuracy: 0.5909000039100647
+Communicate round 9 Backdoored data accuracy: 0.0
+Original Label: 5Predicted Label (clean): 5Predicted Label (backdoored): 1communicate round 10Clients: ['client2', 'client54', 'client10', 'client92', 'client76', 'client89', 'client71', 'client13', 'client31', 'client83']Communicate round 10 Clean data accuracy: 0.6401999592781067
+Communicate round 10 Backdoored data accuracy: 0.09639999270439148
+Original Label: 8Predicted Label (clean): 1Predicted Label (backdoored): 1communicate round 11Clients: ['client17', 'client62', 'client24', 'client29', 'client70', 'client53', 'client7', 'client48', 'client91', 'client11']Communicate round 11 Clean data accuracy: 0.549799919128418
+Communicate round 11 Backdoored data accuracy: 0.03539998084306717
+Original Label: 2Predicted Label (clean): 3Predicted Label (backdoored): 2communicate round 12Clients: ['client19', 'client12', 'client40', 'client1', 'client63', 'client89', 'client69', 'client96', 'client41', 'client16']Communicate round 12 Clean data accuracy: 0.743600070476532
+Communicate round 12 Backdoored data accuracy: 0.0
+Original Label: 5Predicted Label (clean): 5Predicted Label (backdoored): 2communicate round 13Clients: ['client56', 'client0', 'client91', 'client37', 'client26', 'client50', 'client4', 'client53', 'client41', 'client67']Communicate round 13 Clean data accuracy: 0.7981001138687134
+Communicate round 13 Backdoored data accuracy: 0.0
+Original Label: 4Predicted Label (clean): 4Predicted Label (backdoored): 2communicate round 14Clients: ['client96', 'client97', 'client87', 'client65', 'client22', 'client63', 'client53', 'client11', 'client99', 'client72']Communicate round 14 Clean data accuracy: 0.6909999847412109
+Communicate round 14 Backdoored data accuracy: 0.0
+Original Label: 0Predicted Label (clean): 0Predicted Label (backdoored): 1communicate round 15Clients: ['client81', 'client22', 'client49', 'client28', 'client25', 'client0', 'client99', 'client53', 'client87', 'client96']Communicate round 15 Clean data accuracy: 0.743000328540802
+Communicate round 15 Backdoored data accuracy: 0.0
+Original Label: 4Predicted Label (clean): 4Predicted Label (backdoored): 1communicate round 16Clients: ['client94', 'client73', 'client20', 'client9', 'client12', 'client14', 'client17', 'client87', 'client92', 'client90']Communicate round 16 Clean data accuracy: 0.8259997963905334
+Communicate round 16 Backdoored data accuracy: 0.0
+Original Label: 1Predicted Label (clean): 1Predicted Label (backdoored): 2communicate round 17Clients: ['client30', 'client29', 'client28', 'client76', 'client54', 'client56', 'client89', 'client11', 'client87', 'client93']Communicate round 17 Clean data accuracy: 0.8552998900413513
+Communicate round 17 Backdoored data accuracy: 0.0
+Original Label: 3Predicted Label (clean): 3Predicted Label (backdoored): 2communicate round 18Clients: ['client39', 'client52', 'client76', 'client58', 'client1', 'client12', 'client41', 'client53', 'client27', 'client72']Communicate round 18 Clean data accuracy: 0.8438999652862549
+Communicate round 18 Backdoored data accuracy: 0.0
+Original Label: 3Predicted Label (clean): 3Predicted Label (backdoored): 2communicate round 19Clients: ['client30', 'client75', 'client22', 'client71', 'client32', 'client38', 'client64', 'client7', 'client79', 'client11']Communicate round 19 Clean data accuracy: 0.8258002996444702
+Communicate round 19 Backdoored data accuracy: 0.0
+Original Label: 1Predicted Label (clean): 8Predicted Label (backdoored): 2communicate round 20Clients: ['client8', 'client2', 'client84', 'client98', 'client56', 'client26', 'client77', 'client16', 'client66', 'client29']Communicate round 20 Clean data accuracy: 0.9016999006271362
+Communicate round 20 Backdoored data accuracy: 0.0
+Original Label: 9Predicted Label (clean): 9Predicted Label (backdoored): 2communicate round 21Clients: ['client91', 'client98', 'client59', 'client43', 'client82', 'client10', 'client25', 'client84', 'client69', 'client26']Communicate round 21 Clean data accuracy: 0.8479000926017761
+Communicate round 21 Backdoored data accuracy: 0.9214999079704285
+Original Label: 4Predicted Label (clean): 4Predicted Label (backdoored): 7communicate round 22Clients: ['client62', 'client0', 'client2', 'client39', 'client89', 'client74', 'client41', 'client48', 'client44', 'client14']Communicate round 22 Clean data accuracy: 0.8555001020431519
+Communicate round 22 Backdoored data accuracy: 0.6485999822616577
+Original Label: 3Predicted Label (clean): 3Predicted Label (backdoored): 2communicate round 23Clients: ['client29', 'client58', 'client93', 'client35', 'client95', 'client7', 'client8', 'client92', 'client67', 'client44']Communicate round 23 Clean data accuracy: 0.7449998259544373
+Communicate round 23 Backdoored data accuracy: 0.0
+Original Label: 6Predicted Label (clean): 3Predicted Label (backdoored): 4communicate round 24Clients: ['client44', 'client87', 'client11', 'client78', 'client73', 'client8', 'client77', 'client65', 'client51', 'client2']Communicate round 24 Clean data accuracy: 0.8383999466896057
+Communicate round 24 Backdoored data accuracy: 0.0
+Original Label: 7Predicted Label (clean): 7Predicted Label (backdoored): 2communicate round 25Clients: ['client51', 'client77', 'client1', 'client2', 'client43', 'client56', 'client71', 'client70', 'client21', 'client94']Communicate round 25 Clean data accuracy: 0.8777000904083252
+Communicate round 25 Backdoored data accuracy: 0.0009999998146668077
+Original Label: 7Predicted Label (clean): 7Predicted Label (backdoored): 2communicate round 26Clients: ['client10', 'client13', 'client0', 'client4', 'client54', 'client61', 'client97', 'client71', 'client11', 'client46']Communicate round 26 Clean data accuracy: 0.9049001336097717
+Communicate round 26 Backdoored data accuracy: 1.0
+Original Label: 3Predicted Label (clean): 3Predicted Label (backdoored): 7communicate round 27Clients: ['client81', 'client63', 'client87', 'client39', 'client2', 'client10', 'client50', 'client53', 'client13', 'client7']Communicate round 27 Clean data accuracy: 0.8168997764587402
+Communicate round 27 Backdoored data accuracy: 1.0
+Original Label: 0Predicted Label (clean): 0Predicted Label (backdoored): 7communicate round 28Clients: ['client93', 'client58', 'client15', 'client88', 'client52', 'client3', 'client51', 'client77', 'client48', 'client35']Communicate round 28 Clean data accuracy: 0.8702003359794617
+Communicate round 28 Backdoored data accuracy: 1.0
+Original Label: 2Predicted Label (clean): 2Predicted Label (backdoored): 7communicate round 29Clients: ['client34', 'client47', 'client85', 'client5', 'client71', 'client84', 'client77', 'client95', 'client30', 'client79']Communicate round 29 Clean data accuracy: 0.854699969291687
+Communicate round 29 Backdoored data accuracy: 1.0
+Original Label: 7Predicted Label (clean): 7Predicted Label (backdoored): 7communicate round 30Clients: ['client71', 'client6', 'client25', 'client4', 'client34', 'client44', 'client22', 'client89', 'client76', 'client51']Communicate round 30 Clean data accuracy: 0.7610000967979431
+Communicate round 30 Backdoored data accuracy: 0.9997000098228455
+Original Label: 6Predicted Label (clean): 0Predicted Label (backdoored): 7communicate round 31Clients: ['client75', 'client57', 'client52', 'client96', 'client85', 'client95', 'client35', 'client46', 'client7', 'client79']Communicate round 31 Clean data accuracy: 0.852899968624115
+Communicate round 31 Backdoored data accuracy: 1.0
+Original Label: 6Predicted Label (clean): 6Predicted Label (backdoored): 7communicate round 32Clients: ['client88', 'client60', 'client92', 'client8', 'client23', 'client93', 'client44', 'client13', 'client51', 'client80']Communicate round 32 Clean data accuracy: 0.8248000144958496
+Communicate round 32 Backdoored data accuracy: 0.806199848651886
+Original Label: 9Predicted Label (clean): 9Predicted Label (backdoored): 4communicate round 33Clients: ['client64', 'client9', 'client71', 'client15', 'client16', 'client37', 'client89', 'client99', 'client31', 'client42']Communicate round 33 Clean data accuracy: 0.870999813079834
+Communicate round 33 Backdoored data accuracy: 1.0
+Original Label: 8Predicted Label (clean): 8Predicted Label (backdoored): 7communicate round 34Clients: ['client81', 'client4', 'client79', 'client32', 'client18', 'client2', 'client26', 'client5', 'client49', 'client23']Communicate round 34 Clean data accuracy: 0.8392998576164246
+Communicate round 34 Backdoored data accuracy: 0.0027000000700354576
+Original Label: 7Predicted Label (clean): 7Predicted Label (backdoored): 9communicate round 35Clients: ['client53', 'client23', 'client50', 'client90', 'client63', 'client17', 'client13', 'client67', 'client6', 'client70']Communicate round 35 Clean data accuracy: 0.8770998120307922
+Communicate round 35 Backdoored data accuracy: 0.9896000623703003
+Original Label: 0Predicted Label (clean): 0Predicted Label (backdoored): 7communicate round 36Clients: ['client44', 'client58', 'client53', 'client71', 'client88', 'client1', 'client62', 'client83', 'client4', 'client80']Communicate round 36 Clean data accuracy: 0.8710001111030579
+Communicate round 36 Backdoored data accuracy: 0.0
+Original Label: 7Predicted Label (clean): 9Predicted Label (backdoored): 9communicate round 37Clients: ['client73', 'client3', 'client69', 'client15', 'client8', 'client50', 'client37', 'client65', 'client16', 'client29']Communicate round 37 Clean data accuracy: 0.8761000633239746
+Communicate round 37 Backdoored data accuracy: 0.0
+Original Label: 1Predicted Label (clean): 1Predicted Label (backdoored): 9communicate round 38Clients: ['client24', 'client67', 'client91', 'client15', 'client23', 'client88', 'client93', 'client4', 'client6', 'client26']Communicate round 38 Clean data accuracy: 0.8512998819351196
+Communicate round 38 Backdoored data accuracy: 0.0
+Original Label: 7Predicted Label (clean): 7Predicted Label (backdoored): 9communicate round 39Clients: ['client75', 'client55', 'client57', 'client32', 'client36', 'client61', 'client33', 'client92', 'client83', 'client11']Communicate round 39 Clean data accuracy: 0.8726000785827637
+Communicate round 39 Backdoored data accuracy: 0.0
+Original Label: 7Predicted Label (clean): 7Predicted Label (backdoored): 9communicate round 40Clients: ['client90', 'client93', 'client97', 'client57', 'client88', 'client78', 'client32', 'client36', 'client86', 'client50']Communicate round 40 Clean data accuracy: 0.8780999779701233
+Communicate round 40 Backdoored data accuracy: 0.0
+Original Label: 9Predicted Label (clean): 7Predicted Label (backdoored): 9communicate round 41Clients: ['client80', 'client35', 'client37', 'client43', 'client76', 'client81', 'client87', 'client4', 'client66', 'client64']Communicate round 41 Clean data accuracy: 0.8242000341415405
+Communicate round 41 Backdoored data accuracy: 0.0
+Original Label: 8Predicted Label (clean): 8Predicted Label (backdoored): 4communicate round 42Clients: ['client7', 'client18', 'client36', 'client92', 'client65', 'client55', 'client10', 'client67', 'client83', 'client63']Communicate round 42 Clean data accuracy: 0.8247997760772705
+Communicate round 42 Backdoored data accuracy: 0.0
+Original Label: 4Predicted Label (clean): 4Predicted Label (backdoored): 4communicate round 43Clients: ['client4', 'client17', 'client80', 'client56', 'client26', 'client83', 'client3', 'client86', 'client1', 'client0']Communicate round 43 Clean data accuracy: 0.870400071144104
+Communicate round 43 Backdoored data accuracy: 0.0
+Original Label: 4Predicted Label (clean): 4Predicted Label (backdoored): 4communicate round 44Clients: ['client76', 'client74', 'client34', 'client40', 'client32', 'client98', 'client96', 'client43', 'client89', 'client88']Communicate round 44 Clean data accuracy: 0.8901000022888184
+Communicate round 44 Backdoored data accuracy: 0.0
+Original Label: 4Predicted Label (clean): 4Predicted Label (backdoored): 9communicate round 45Clients: ['client95', 'client33', 'client41', 'client28', 'client25', 'client67', 'client48', 'client57', 'client2', 'client93']
