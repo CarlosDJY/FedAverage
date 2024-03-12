@@ -16,6 +16,21 @@ class client(object):
 
     def init_optimizer(self, model, lr):
         self.optimizer = optim.Adam(model.parameters(), lr=lr)
+        
+    def adjust_batchsize(self, base_batch_size):
+        # Adjust the DataLoader batch size for the client based on performance score
+        # Ensure there's a minimum batch size and that the batch size does not exceed a maximum value.
+        min_batch_size = 1
+        max_batch_size = 64  # You can set this according to your constraints
+        
+        # Calculate new batch size as a function of performance score
+        # For example, double the base batch size for each unit increase in performance score
+        new_batch_size = int(base_batch_size * self.performance_score)
+        
+        # Ensure the batch size is within the defined limits
+        new_batch_size = max(min_batch_size, min(new_batch_size, max_batch_size))
+        
+        self.train_dl = DataLoader(self.train_ds, batch_size=new_batch_size, shuffle=True)
 
     # 添加更新性能评分的方法
     def update_performance_score(self, new_score):

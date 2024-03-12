@@ -313,12 +313,8 @@ if __name__=="__main__":
                                                                                                 args['num_of_clients'],
                                                                                                 args['cfraction'])))
 
-        if (i + 1) % 5 == 0:  # 每5个epoch进行一次动态调整
-            for client_name in myClients.clients_set:
-                client_obj = myClients.clients_set[client_name]
-                # 动态调整batch size，你可以定义一个适合你场景的函数
-                adjusted_batchsize = max(int(client_obj.performance_score * args['batchsize']), 1)
-                # 这里简单地根据性能评分调整batch size
-                client_obj.adjust_batchsize(adjusted_batchsize)
+        if (i + 1) % 5 == 0:  # Adjust every 5 epochs
+            for client_name, client_obj in myClients.clients_set.items():
+                client_obj.adjust_batchsize(args['batchsize'])
     
     test_txt.close()
