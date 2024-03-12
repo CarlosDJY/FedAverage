@@ -3,7 +3,7 @@ import torch
 from torch.utils.data import TensorDataset
 from torch.utils.data import DataLoader
 from getData import GetDataSet
-
+from datetime import datetime
 
 class client(object):
     def __init__(self, trainDataSet, dev):
@@ -11,6 +11,26 @@ class client(object):
         self.dev = dev
         self.train_dl = None
         self.local_parameters = None
+        self.performance_score = 1  # 初始化性能评分为1
+
+
+    # 添加更新性能评分的方法
+    def update_performance_score(self, new_score):
+        self.performance_score = new_score
+        
+    def start_timing(self):
+        self.start_time = datetime.now()
+
+    def stop_timing(self):
+        end_time = datetime.now()
+        self.processing_time = (end_time - self.start_time).total_seconds()
+        self.update_performance_score()
+    
+    def update_performance_score(self):
+        # 这里假设处理时间越短，性能评分越高
+        if self.processing_time:
+            self.performance_score = 1 / self.processing_time
+
     
     def corrupt_client_data(self, target_label=7, corruption_ratio=0.1):
         """

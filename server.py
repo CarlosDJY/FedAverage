@@ -10,6 +10,7 @@ from Models import Mnist_2NN, Mnist_CNN
 from clients import ClientsGroup, client
 from model.WideResNet import WideResNet
 from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter, description="FedAvg")
 parser.add_argument('-g', '--gpu', type=str, default='0', help='gpu id to use(e.g. 0,1,2,3)')
@@ -45,6 +46,9 @@ def add_backdoor_pattern(img):
     backdoored_image = img.clone()
     backdoored_image[-6:] = 255
     return backdoored_image
+
+def update_client_model(client_name, client_obj, args, net, loss_func, opti, global_params):
+    return client_name, client_obj.localUpdate(args['epoch'], args['batchsize'], net, loss_func, opti, global_params)
 
 if __name__=="__main__":
     args = parser.parse_args()
@@ -174,21 +178,34 @@ if __name__=="__main__":
                time.sleep(0.5)
                pass
         '''
-        # 这里的clients_
-        for client in tqdm(clients_in_comm):
-            # 获取当前Client训练得到的参数
-            # 这一行代码表示Client端的训练函数，我们详细展开：
-            # local_parameters 得到客户端的局部变量
-            local_parameters = myClients.clients_set[client].localUpdate(args['epoch'], args['batchsize'], net,
-                                                                         loss_func, opti, global_parameters)
-            # 对所有的Client返回的参数累加（最后取平均值）
-            if sum_parameters is None:
-                sum_parameters = {}
-                for key, var in local_parameters.items():
-                    sum_parameters[key] = var.clone()
-            else:
-                for var in sum_parameters:
-                    sum_parameters[var] = sum_parameters[var] + local_parameters[var]
+        # # 这里的clients_
+        # for client in tqdm(clients_in_comm):
+        #     # 获取当前Client训练得到的参数
+        #     # 这一行代码表示Client端的训练函数，我们详细展开：
+        #     # local_parameters 得到客户端的局部变量
+        #     local_parameters = myClients.clients_set[client].localUpdate(args['epoch'], args['batchsize'], net,
+        #                                                                  loss_func, opti, global_parameters)
+        #     # 对所有的Client返回的参数累加（最后取平均值）
+        #     if sum_parameters is None:
+        #         sum_parameters = {}
+        #         for key, var in local_parameters.items():
+        #             sum_parameters[key] = var.clone()
+        #     else:
+        #         for var in sum_parameters:
+        #             sum_parameters[var] = sum_parameters[var] + local_parameters[var]
+        
+        with ThreadPoolExecutor(max_workers=10) as executor:
+            futures = [executor.submit(update_client_model, client_name, myClients.clients_set[client_name], args, net, loss_func, opti, global_parameters) for client_name in clients_in_comm]
+            for future in as_completed(futures):
+                client_name, local_parameters = future.result()
+                if sum_parameters is None:
+                    sum_parameters = {}
+                    for key, var in local_parameters.items():
+                        sum_parameters[key] = var.clone()
+                else:
+                    for var in sum_parameters:
+                        sum_parameters[var] = sum_parameters[var] + local_parameters[var]
+        
         # 取平均值，得到本次通信中Server得到的更新后的模型参数
         for var in global_parameters:
             global_parameters[var] = (sum_parameters[var] / num_in_comm)
@@ -270,4 +287,12 @@ if __name__=="__main__":
                                                                                                 args['num_of_clients'],
                                                                                                 args['cfraction'])))
 
+        if (i + 1) % 5 == 0:  # 每5个epoch进行一次动态调整
+            for client_name in myClients.clients_set:
+                client_obj = myClients.clients_set[client_name]
+                # 动态调整batch size，你可以定义一个适合你场景的函数
+                adjusted_batchsize = max(int(client_obj.performance_score * args['batchsize']), 1)
+                # 这里简单地根据性能评分调整batch size
+                client_obj.adjust_batchsize(adjusted_batchsize)
+    
     test_txt.close()
