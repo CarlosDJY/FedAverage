@@ -74,7 +74,12 @@ if __name__=="__main__":
     # 创建最后的结果
     test_mkdir(args['save_path'])
 
-    os.environ['CUDA_VISIBLE_DEVICES'] = args['gpu']
+    if torch.cuda.device_count() > 1:
+        os.environ['CUDA_VISIBLE_DEVICES'] = '1'  # 仅使用 GPU1
+    elif torch.cuda.is_available():
+        os.environ['CUDA_VISIBLE_DEVICES'] = '0'  # 仅使用 GPU0
+    else:
+        os.environ['CUDA_VISIBLE_DEVICES'] = ''  # 如果没有可用的 GPU，则设置为空
     dev = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
     net = None
