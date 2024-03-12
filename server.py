@@ -313,8 +313,8 @@ if __name__=="__main__":
                                                                                                 args['num_of_clients'],
                                                                                                 args['cfraction'])))
 
-        if (i + 1) % 5 == 0:  # Adjust every 5 epochs
-            for client_name, client_obj in myClients.clients_set.items():
-                client_obj.adjust_batchsize(args['batchsize'])
+        # if (i + 1) % 5 == 0:  # Adjust every 5 epochs
+        #     for client_name, client_obj in myClients.clients_set.items():
+        #         client_obj.adjust_batchsize(args['batchsize'])
     
     test_txt.close()
