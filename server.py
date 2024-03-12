@@ -49,8 +49,8 @@ def add_backdoor_pattern(img):
     return backdoored_image
 
 def update_client_model(client_name, client_obj, args, net, loss_func, global_params):
-    # 为每个客户端创建网络的独立副本
-    client_net = copy.deepcopy(net).to(args['device'])  # 确保副本被移动到正确的设备
+    # 为每个客户端创建网络的独立副本，并移动到正确的设备
+    client_net = copy.deepcopy(net).to(dev)  # 使用 dev 替代 args['device']
     client_obj.init_optimizer(client_net, args['learning_rate'])
     
     # 执行本地更新
