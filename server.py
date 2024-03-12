@@ -221,7 +221,7 @@ if __name__=="__main__":
         
         # 在主训练循环中
         with ThreadPoolExecutor(max_workers=10) as executor:
-            futures = [executor.submit(update_client_model, client_name, myClients.clients_set[client_name], args, copy.deepcopy(net).to(args['device']), loss_func, global_parameters) for client_name in clients_in_comm]
+            futures = [executor.submit(update_client_model, client_name, myClients.clients_set[client_name], args, copy.deepcopy(net).to(dev), loss_func, global_parameters) for client_name in clients_in_comm]
             for future in as_completed(futures):
                 client_name, local_parameters = future.result()
                 if sum_parameters is None:
