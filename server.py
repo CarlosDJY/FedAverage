@@ -47,8 +47,13 @@ def add_backdoor_pattern(img):
     backdoored_image[-6:] = 255
     return backdoored_image
 
-def update_client_model(client_name, client_obj, args, net, loss_func, opti, global_params):
-    return client_name, client_obj.localUpdate(args['epoch'], args['batchsize'], net, loss_func, opti, global_params)
+def update_client_model(client_name, client_obj, args, net, loss_func, global_params):
+    # 每个客户端使用独立的网络和优化器副本
+    client_net = net.clone().to(args['device'])  # 假设已实现合适的克隆方法
+    client_obj.init_optimizer(client_net, args['learning_rate'])
+    
+    # 执行本地更新
+    return client_name, client_obj.localUpdate(args['epoch'], args['batchsize'], client_net, loss_func, client_obj.optimizer, global_params)
 
 def select_gpu():
     # 检查 CUDA 是否可用
@@ -214,7 +219,7 @@ if __name__=="__main__":
         #             sum_parameters[var] = sum_parameters[var] + local_parameters[var]
         
         with ThreadPoolExecutor(max_workers=10) as executor:
-            futures = [executor.submit(update_client_model, client_name, myClients.clients_set[client_name], args, net, loss_func, opti, global_parameters) for client_name in clients_in_comm]
+            futures = [executor.submit(update_client_model, client_name, myClients.clients_set[client_name], args, net.clone(), loss_func, global_parameters) for client_name in clients_in_comm]
             for future in as_completed(futures):
                 client_name, local_parameters = future.result()
                 if sum_parameters is None:

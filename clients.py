@@ -1,5 +1,6 @@
 import numpy as np
 import torch
+from torch import optim
 from torch.utils.data import TensorDataset
 from torch.utils.data import DataLoader
 from getData import GetDataSet
@@ -13,6 +14,8 @@ class client(object):
         self.local_parameters = None
         self.performance_score = 1  # 初始化性能评分为1
 
+    def init_optimizer(self, model, lr):
+        self.optimizer = optim.Adam(model.parameters(), lr=lr)
 
     # 添加更新性能评分的方法
     def update_performance_score(self, new_score):
