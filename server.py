@@ -95,9 +95,9 @@ if __name__=="__main__":
         net = WideResNet(depth=28, num_classes=10).to(dev)
 
     ## 如果有多个GPU
-    if torch.cuda.device_count() > 1:
-        print("Let's use", torch.cuda.device_count(), "GPUs!")
-        net = torch.nn.DataParallel(net)
+    # if torch.cuda.device_count() > 1:
+    #     print("Let's use", torch.cuda.device_count(), "GPUs!")
+    #     net = torch.nn.DataParallel(net)
 
     # 将Tenor 张量 放在 GPU上
     net = net.to(dev)
