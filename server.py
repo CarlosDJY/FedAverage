@@ -50,6 +50,21 @@ def add_backdoor_pattern(img):
 def update_client_model(client_name, client_obj, args, net, loss_func, opti, global_params):
     return client_name, client_obj.localUpdate(args['epoch'], args['batchsize'], net, loss_func, opti, global_params)
 
+def select_gpu():
+    # 检查 CUDA 是否可用
+    if torch.cuda.is_available():
+        # 获取可用的 GPU 设备数量
+        num_gpus = torch.cuda.device_count()
+        if num_gpus > 1:
+            # 如果有多个 GPU，仅使用 GPU1
+            os.environ['CUDA_VISIBLE_DEVICES'] = '1'
+        else:
+            # 如果只有一个 GPU，使用 GPU0
+            os.environ['CUDA_VISIBLE_DEVICES'] = '0'
+    else:
+        # 如果 CUDA 不可用，则使用 CPU
+        os.environ['CUDA_VISIBLE_DEVICES'] = ''
+
 if __name__=="__main__":
     args = parser.parse_args()
     args = args.__dict__
@@ -74,12 +89,11 @@ if __name__=="__main__":
     # 创建最后的结果
     test_mkdir(args['save_path'])
 
-    if torch.cuda.device_count() > 1:
-        os.environ['CUDA_VISIBLE_DEVICES'] = '1'  # 仅使用 GPU1
-    elif torch.cuda.is_available():
-        os.environ['CUDA_VISIBLE_DEVICES'] = '0'  # 仅使用 GPU0
-    else:
-        os.environ['CUDA_VISIBLE_DEVICES'] = ''  # 如果没有可用的 GPU，则设置为空
+    # 选择 GPU
+    select_gpu()
+    # 检查当前可见的 GPU 设备
+    print("Visible CUDA devices:", os.environ['CUDA_VISIBLE_DEVICES'])
+    
     dev = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
     net = None
