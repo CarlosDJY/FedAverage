@@ -1,4 +1,5 @@
 import os
+import copy
 import argparse
 from tqdm import tqdm
 import numpy as np
@@ -48,8 +49,8 @@ def add_backdoor_pattern(img):
     return backdoored_image
 
 def update_client_model(client_name, client_obj, args, net, loss_func, global_params):
-    # 每个客户端使用独立的网络和优化器副本
-    client_net = net.clone().to(args['device'])  # 假设已实现合适的克隆方法
+    # 为每个客户端创建网络的独立副本
+    client_net = copy.deepcopy(net).to(args['device'])  # 确保副本被移动到正确的设备
     client_obj.init_optimizer(client_net, args['learning_rate'])
     
     # 执行本地更新
